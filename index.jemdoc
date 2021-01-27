@@ -1,0 +1,61 @@
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myMiddle.css}
+
+
+~~~
+{}{img_left}{zwq.JPG}{150}{150}{Wenqian Zhao}
+Wenqian Zhao, Ph.D. \n
+[http://www.cse.cuhk.edu.hk/ Department of Computer Science and Engineering]\n
+[http://www.cuhk.edu.hk/ The Chinese University of Hong Kong]\n
+Supervisor: [http://www.cse.cuhk.edu.hk/~byu/ Professor Bei Yu]\n
+{{
+<a href="https://www.linkedin.com/in/wenqian-zhao-765136159"><img src="button/linkedin-logo.png" style="width:30px;height:30px;"></a>
+<a href="https://github.com/Wenqian1228"><img src="button/github-logo.png" style="width:30px;height:30px;"></a>
+}}
+~~~
+
+== Biography
+I am currently a Ph.D. student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk The Chinese University of Hong Kong (CUHK)], 
+under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2020. 
+Previously, I received my B.S. in the Department of Computer Science and Engineering from [http://www.cse.cuhk.edu.hk The Chinese University of Hong Kong (CUHK)] in 2019.
+
+== Contact
+Email: wqzhao \[at\] cse.cuhk.edu.hk\n
+
+== Research Interest
+- Machine Learning in EDA
+- Computer Vision
+- Neural Network Acceleration
+
+== Publication
+
+- \[C1\] Weijia Li, *Wenqian Zhao*, Huaping Zhong, Conghui He, Dahua Lin, "Joint Semantic-Geometric Learning for Polygonal Building Segmentation", AAAI Conference on Artificial Intelligence, Feb. 02-09, 2021
+
+#Does not have temporarily, diligently!
+
+== Education
+- Ph.D. Computer Science and Engineering, [http://www.cuhk.edu.hk The Chinese University of Hong Kong], Aug 2020 - present
+- B.S. Computer Science and Engineering(Exchange), [https://www.ntu.edu.sg/Pages/home.aspx Nanyang Technological University] Aug 2017 - Jan 2018
+- Summer School, [https://www.ox.ac.uk Oxford University] Jun 2017 - Jul 2017
+- B.S. Computer Science and Engineering, [http://www.cuhk.edu.hk The Chinese University of Hong Kong], Sept 2015 - Nov 2019
+
+== Experience
+
+=== Research Intern | SmartMore
+- *Advisor*: Prof [http://www.cse.cuhk.edu.hk/~byu/ Bei, Yu]\n
+  Heterogeneous Computing Cetre\n
+  Jun. 2020 - Jan. 2021, Shenzhen, China
+
+=== Research Intern | SenseTime Research
+- *Mentor*: Mr [https://www.linkedin.com/in/heconghui/?originalSubdomain=in Conghui, He]\n
+Automatic Annotation Algorithm Team\n
+Jun. 2019 - June. 2020, Shenzhen, China
+
+=== Research Intern | The Chinese University of Hong Kong
+- *Advisor*: prof [http://www1.se.cuhk.edu.hk/~xfgao/ Xuefeng, Gao]\n
+  Jun. 2018 - Sept. 2018, NT, Hong Kong SAR
+
+== Others
+I love taking photos and posting some moments of my life. Follow [https://www.instagram.com/vincent_zhao1228/ Instagram(@vincent_zhao1228)]. \n\n
+God is stingy with life to everyone, I strive to make good experience of each day and stay thrifty. We all live once. It's never worse to learn more about the world we are staying, that's why I travel.\n\n
+I read {{<em>Flowers for Algernon</em>}} recently and It's a great book. The world may not be beatiful as we thought. But it's pathetic for sure if we never get the chance to see it.
