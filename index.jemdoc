@@ -10,6 +10,7 @@ Wenqian Zhao, Ph.D. \n
 Supervisor: [http://www.cse.cuhk.edu.hk/~byu/ Professor Bei Yu]\n
 {{
 <a href="https://www.linkedin.com/in/wenqian-zhao-765136159"><img src="button/linkedin-logo.png" style="width:30px;height:30px;"></a>
+<a href="https://scholar.google.com/citations?user=IVvZ6KoAAAAJ&hl=zh-CN"><img src="button/google_scholar.png" style="width:30px;height:30px;"></a>
 <a href="https://github.com/Wenqian1228"><img src="button/github-logo.png" style="width:30px;height:30px;"></a>
 }}
 ~~~
@@ -28,9 +29,11 @@ Email: wqzhao \[at\] cse.cuhk.edu.hk\n
 - Neural Network Acceleration
 
 == Publication
+
+=== Conference Papers
 - \[C2\] *Wenqian Zhao*, Qi Sun, Yang Bai, Haisheng Zheng, Wenbo Li, Bei Yu, Martin D.F. Wong, “A High-Performance Accelerator for Super-Resolution Processing on Embedded GPU”, IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 1–4, 2021.
 
-- \[C1\] Weijia Li, *Wenqian Zhao*, Huaping Zhong, Conghui He, Dahua Lin, "Joint Semantic-Geometric Learning for Polygonal Building Segmentation", AAAI Conference on Artificial Intelligence, Feb. 02-09, 2021
+- \[C1\] Weijia Li, *Wenqian Zhao*, Huaping Zhong, Conghui He, Dahua Lin, "Joint Semantic-Geometric Learning for Polygonal Building Segmentation", Proceedings of AAAI Conference on Artificial Intelligence (*AAAI*), Feb. 02-09, 2021
 
 #Does not have temporarily, diligently!
 
