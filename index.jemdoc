@@ -24,13 +24,15 @@ Previously, I received my B.S. in the Department of Computer Science and Enginee
 Email: wqzhao \[at\] cse.cuhk.edu.hk\n
 
 == Research Interest
+- DNN Acceleration
 - Machine Learning in EDA
 - Computer Vision
-- Neural Network Acceleration
 
 == Publication
 
 === Conference Papers
+- \[C3\] *Wenqian Zhao*, Xufeng Yao, Ziyang Yu, Guojin Chen, Yuzhe Ma, Bei Yu, Martin D.F. Wong, “AdaOPC: A Self-Adaptive Mask Optimization Framework For Real Design Patterns”, IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Oct. 30 – Nov. 3, 2022.
+
 - \[C2\] *Wenqian Zhao*, Qi Sun, Yang Bai, Haisheng Zheng, Wenbo Li, Bei Yu, Martin D.F. Wong, “A High-Performance Accelerator for Super-Resolution Processing on Embedded GPU”, IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 1–4, 2021.
 
 - \[C1\] Weijia Li, *Wenqian Zhao*, Huaping Zhong, Conghui He, Dahua Lin, "Joint Semantic-Geometric Learning for Polygonal Building Segmentation", Proceedings of AAAI Conference on Artificial Intelligence (*AAAI*), Feb. 02-09, 2021
@@ -60,5 +62,5 @@ Jun. 2019 - June. 2020, Shenzhen, China
 
 == Others
 I love taking photos and posting some moments of my life. Follow [https://www.instagram.com/vincent_zhao1228/ Instagram(@vincent_zhao1228)]. \n\n
-God is stingy with life to everyone, I strive to make good experience of each day and stay thrifty. We all live once. It's never worse to learn more about the world we are staying, that's why I travel.\n\n
+God is stingy with life to everyone, I strive to make good experience of each day and stay thrifty. \n\n
 I read {{<em>Flowers for Algernon</em>}} recently and It's a great book. The world may not be beatiful as we thought. But it's pathetic for sure if we never get the chance to see it.
