@@ -6,5 +6,55 @@
     <description>Recent content on Wenqian Hugo Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://Wenqian1228.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://Wenqian1228.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Wenqian1228.github.io/about/</guid>
+      <description>I am currently a Ph.D. student at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of Prof. Bei Yu since Fall 2020. Previously, I received my B.S. in the Department of Computer Science and Engineering from The Chinese University of Hong Kong (CUHK) in 2019.
+My current works and research interests are mainly around:
+Efficient AI: Hardware-aware model compression &amp;amp; quantization</description>
+    </item>
+    
+    <item>
+      <title>Experiences</title>
+      <link>https://Wenqian1228.github.io/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Wenqian1228.github.io/experience/</guid>
+      <description>Education: Ph.D. Computer Science and Engineering, Aug 2020 - present
+The Chinese University of Hong Kong
+B.S. Computer Science and Engineering(Exchange), Aug 2017 - Jan 2018
+Nanyang Technological University
+Summer School, Jun 2017 - Jul 2017
+Oxford University
+B.S. Computer Science and Engineering, Sept 2015 - Nov 2019
+The Chinese University of Hong Kong
+Occupational history: Research Intern | SmartMore
+Heterogeneous Computing Cetre
+Jun. 2020 - Jan. 2021, Shenzhen, China</description>
+    </item>
+    
+    <item>
+      <title>Others</title>
+      <link>https://Wenqian1228.github.io/others/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Wenqian1228.github.io/others/</guid>
+      <description>I have broad interests in many things irrelavant to my research.
+Used to love photography but not that much recently. A brief selection on Instagram(@vincent_zhao1228). </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://Wenqian1228.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Wenqian1228.github.io/publications/</guid>
+      <description>Conference: [C3] Wenqian Zhao, Xufeng Yao, Ziyang Yu, Guojin Chen, Yuzhe Ma, Bei Yu, Martin D.F. Wong, “AdaOPC: A Self-Adaptive Mask Optimization Framework For Real Design Patterns”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Oct. 30 – Nov. 3, 2022.
+[C2] Wenqian Zhao, Qi Sun, Yang Bai, Haisheng Zheng, Wenbo Li, Bei Yu, Martin D.F. Wong, “A High-Performance Accelerator for Super-Resolution Processing on Embedded GPU”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov.</description>
+    </item>
+    
   </channel>
 </rss>
