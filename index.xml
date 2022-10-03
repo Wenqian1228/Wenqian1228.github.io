@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://Wenqian1228.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>‘Democracy’ by and for the Elites</title>
+      <link>https://Wenqian1228.github.io/readings/democracy_wsj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Wenqian1228.github.io/readings/democracy_wsj/</guid>
+      <description>Go back
+President Biden’s Sept. 1 speech in Philadelphia on “unity” is a poignant example of the confusion surrounding the concept of democracy. Mr. Biden declared that MAGA Republicans threaten “the very foundations of our republic.” The phrase a “threat to American democracy” is so commonplace these days that it hardly carries any meaning—except that it encapsulates the reigning ideology of our time, an ideology so pervasive that it almost goes unnoticed.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://Wenqian1228.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -44,6 +54,7 @@ Jun. 2020 - Jan. 2021, Shenzhen, China</description>
       <guid>https://Wenqian1228.github.io/others/</guid>
       <description>I have broad interests in many things irrelavant to my research.
 Used to love photography but not that much recently. A brief selection on Instagram(@vincent_zhao1228).
+I enjoy reading and occasionally intrigued by interesting opinions or ideas. A small collection of books/articles
 Recently I am starting to dig into modern Chinese history in my spare time.</description>
     </item>
     
@@ -55,6 +66,21 @@ Recently I am starting to dig into modern Chinese history in my spare time.</des
       <guid>https://Wenqian1228.github.io/publications/</guid>
       <description>Conference: [C3] Wenqian Zhao, Xufeng Yao, Ziyang Yu, Guojin Chen, Yuzhe Ma, Bei Yu, Martin D.F. Wong, “AdaOPC: A Self-Adaptive Mask Optimization Framework For Real Design Patterns”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Oct. 30 – Nov. 3, 2022.
 [C2] Wenqian Zhao, Qi Sun, Yang Bai, Haisheng Zheng, Wenbo Li, Bei Yu, Martin D.F. Wong, “A High-Performance Accelerator for Super-Resolution Processing on Embedded GPU”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov.</description>
+    </item>
+    
+    <item>
+      <title>Reading List</title>
+      <link>https://Wenqian1228.github.io/reading_list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Wenqian1228.github.io/reading_list/</guid>
+      <description>Books The Making of the Modern Chinese State: 1600–1950
+by Huaiyin Li
+Very informative, with many detailed discussion and analyses, and yet still in a compact structure.
+Education
+by Tara Westover
+Always reminds me the essence of getting eduacated which is probably the only chance to get to know the world and the only thing I never regret in my life for once.
+Ariticles ‘Democracy’ by and for the Elites</description>
     </item>
     
   </channel>
