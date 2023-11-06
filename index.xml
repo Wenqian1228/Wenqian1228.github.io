@@ -64,9 +64,9 @@ Recently I am starting to dig into modern Chinese history in my spare time.</des
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Wenqian1228.github.io/publications/</guid>
-      <description>Conference: [C8] Yang Bai*, Wenqian Zhao*, Shuo Yin, Zixiao Wang, Bei Yu, &amp;ldquo;ATFormer: A Learned Performance Model with Transfer Learning Across Devices for Large-Scale Transformers&amp;rdquo;, Conference on Empirical Methods in Natural Language Processing (EMNLP), Dec. 6-10, 2023.
-[C7] Wenqian Zhao*, Shuo Yin*, Chen Bai, Zixiao Wang, Bei Yu, &amp;ldquo;BAQE: A Backend-Adaptive DNN Quantization Flow&amp;rdquo;, International Conference on Computer Vision (ICCV) - LBQNN Workshop (Oral), Oct. 2-7, 2023.
-[C6] Shixin Chen, Su Zheng, Chen Bai, Wenqian Zhao, Shuo Yin, Yang Bai, Bei Yu, &amp;ldquo;SoC-Tuner: An Importance-guided Exploration Framework for DNN-targeting SoC Design&amp;rdquo;, IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Jan.</description>
+      <description>Conference: [C9] Shuo Yin*, Wenqian Zhao*, Li Xie, Hong Chen, Yuzhe Ma, Tsung-Yi Ho, Bei Yu, &amp;ldquo;FuILT: Full Chip ILT System With Boundary Healing&amp;rdquo;, International Symposium on Physical Design, (ISPD), Mar. 12-15, 2024.
+[C8] Yang Bai*, Wenqian Zhao*, Shuo Yin, Zixiao Wang, Bei Yu, &amp;ldquo;ATFormer: A Learned Performance Model with Transfer Learning Across Devices for Large-Scale Transformers&amp;rdquo;, Conference on Empirical Methods in Natural Language Processing (EMNLP), Dec. 6-10, 2023.
+[C7] Wenqian Zhao*, Shuo Yin*, Chen Bai, Zixiao Wang, Bei Yu, &amp;ldquo;BAQE: A Backend-Adaptive DNN Quantization Flow&amp;rdquo;, International Conference on Computer Vision (ICCV) - LBQNN Workshop (Oral), Oct.</description>
     </item>
     
     <item>
@@ -82,6 +82,17 @@ Education
 by Tara Westover
 Always reminds me the essence of getting eduacated which is probably the only chance to get to know the world and the only thing I never regret in my life for once.
 Ariticles ‘Democracy’ by and for the Elites</description>
+    </item>
+    
+    <item>
+      <title>Working with Idiots Can Kill You !</title>
+      <link>https://Wenqian1228.github.io/readings/idiots_joke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Wenqian1228.github.io/readings/idiots_joke/</guid>
+      <description>Idiots in the office are just as hazardous to your health as cigarettes, caffeine or greasy food, an eye-opening new study reveals. In fact, those dopes can kill you!
+Stress is one of the top causes of heart attacks &amp;ndash; and working with stupid people on a daily basis is one of the deadliest forms of stress, according to researchers at Sweden&amp;rsquo;s Lindbergh University Medical Center.
+The author of the study, Dr.</description>
     </item>
     
   </channel>
