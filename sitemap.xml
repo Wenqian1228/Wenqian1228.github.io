@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Wenqian1228.github.io/readings/kongzi_zwq/</loc>
-  </url><url>
     <loc>https://Wenqian1228.github.io/readings/democracy_wsj/</loc>
+  </url><url>
+    <loc>https://Wenqian1228.github.io/readings/kongzi_zwq/</loc>
   </url><url>
     <loc>https://Wenqian1228.github.io/about/</loc>
   </url><url>
@@ -25,5 +25,7 @@
     <loc>https://Wenqian1228.github.io/</loc>
   </url><url>
     <loc>https://Wenqian1228.github.io/readings/idiots_joke/</loc>
+  </url><url>
+    <loc>https://Wenqian1228.github.io/readings/tehran_letter/</loc>
   </url>
 </urlset>
